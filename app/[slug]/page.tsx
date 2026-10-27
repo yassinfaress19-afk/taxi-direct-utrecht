@@ -1,3 +1,4 @@
+import { notFound } from 'next/navigation';
 import { pages } from '../../lib/pages';
 import { Booking } from '../../components/Site';
 import type { Metadata } from 'next';
